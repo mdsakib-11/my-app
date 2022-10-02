@@ -1,6 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .headerStyle{
-    color:red;
+    color:white;
     background-color: purple;
     text-align: center;
     padding: 12px;
+    font-size:22px;
+}
+.card{
+    width: 500px;
+    background-color: bisque;
+    color:#444;
+    padding: 18px 0px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0em;
+    margin: 0 auto;
+    margin-top: 26px;
 }
