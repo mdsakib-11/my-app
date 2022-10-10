@@ -8,6 +8,7 @@ function App() {
                 <Card textTitle = "Bold Coue" descText = "This Is Bold here."/>
                 <Card textTitle = "Jhon Coue" descText = "This Is Jhon here."/>
                 <Card textTitle = "Robart Coue" descText = "This Is Robart here."/>
+                
             </div>
 }
 
